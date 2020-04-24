@@ -15,6 +15,8 @@ The FE, BE and DB are in true microservice architecture. The BE is composed of a
 
 All microservices are backed with Golangs testing framework. The frame work was implemented with the Poker Service (Poker_test.go)
 
+![Image description](./SystemsDiagram.jpg)
+
 ------------------------
 How to run the project?
 ------------------------
