@@ -10,7 +10,7 @@ These calls are tokenized calls with JWT security patterns.
 
 The results are saved in a MySQL db stored in the cloud hosted at Clever Cloud.
 
-The FE, BE and DB are in true microservice architecture. The BE is composed of a cluseter of 'logical' microservices that can easily be decoupled into a new micro service.
+The FE, BE and DB are in true microservice architecture. The BE is composed of a cluseter of 'logical' microservices that can easily be decoupled into a new microservice.
 
 
 All microservices are backed with Golangs testing framework. The frame work was implemented with the Poker Service (Poker_test.go)
