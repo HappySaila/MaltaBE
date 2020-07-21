@@ -27,7 +27,7 @@ namespace MaltaFE
         {
             InitializeComponent();
 
-            Channel channel = new Channel("192.168.0.102:9090", ChannelCredentials.Insecure);
+            Channel channel = new Channel("localhost:9090", ChannelCredentials.Insecure);
             MaltaBEClient = new MaltaBEClient(channel);
         }
 
