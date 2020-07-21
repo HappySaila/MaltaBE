@@ -20,8 +20,8 @@ All microservices are backed with Golangs testing framework. The frame work was 
 ------------------------
 How to run the project?
 ------------------------
-Run the backend first by running the RunBE.sh file.
-Run the frontend next by running the RunFE.sh file.
+Run the backend first by running the RunBE.sh file. (bash RunBE.sh)
+Run the frontend next by running the RunFE.sh file. (bash RunFE.sh)
 You should see your results in the FE pane and some feedback in the BE.
 Feel free to uncheck Authenticate before sending the data to BE. This will send an invalid JWT to the backend making the user unauthorized.
 
